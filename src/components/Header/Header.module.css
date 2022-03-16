@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #c4c4c4;
+}
+
+.header nav{
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+}
